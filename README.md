@@ -1,2 +1,8 @@
-# JS-Calculadora_CSV_-_HCODE
-Calculadora com interface CSV, utilizando Javascript no Back-End. Este projeto foi desenvolvido para fins de estudo da linguagem, interagindo com uma interface gráfica, tendo como referência o curso prático de Javascript da HCODE 
+# Calculadora JavaScript
+
+[![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
+
+Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
+
+### Projeto
+![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode.jpg?alt=media&token=5406aa3f-b965-401c-9b4e-654609c78b33)
